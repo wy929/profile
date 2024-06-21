@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Master Stu
 
 
 # 🔥 News
@@ -42,13 +40,32 @@ Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenb
 </div>
 </div>
 
+# 💻 Experience
+
+- Suzhou Municipal Key Laboratory for New Energy Techniques, Suzhou, China
+
+  *Neural network simulation of neuromorphic visual systems composed of opto-synaptic transistor arrays*
+
+  - Our team developed a new approach to construct high-performance stretchable SWCNT optoelectronic synapse thin film transistors (SSOSTFTs) with record power consumption (15.38 $aJ$) at operating voltages from -1 to 0.2 $V$ and exhibiting excellent electrical the record switching ratio of $10^5$​, enhancement-mode characteristics, slight hysteresis, and small subthreshold swing) and mechanical tensile properties and also excellent photoelectric synaptic properties (can implement Morse codes to encode English letters due to their excellent synaptic plasticity).
+  - I have developed a synaptic weight updating algorithm based on the properties of SSOSTFTs that can be connected to neural networks. A record accuracy of 95.1% was achieved in an experiment to detect atmospheric environment based on SSOSTFTs mimicking the function of the lens and optic cone cells of the human eye.
+
+
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- 2024, *Certificate of Completion of Algorithmic Trading Course*, Imperial College London
+
+- 2023, *Certificate of Achievement*, Suzhou Municipal Key Laboratory for New Energy Techniques
+
+- 2022, *Certificate of 2022 Summer Undergraduate Research Fellowship (SURF)*, XJTLU
+
+- 2022, *Letter of Appointment as Student Lecturer*,  Student Affairs Office, School of Advanced Technology and Peer Tutoring Club, XJTLU
+
+- 2021, *University Academic Achievement Award (Top 10% in Academic Grades)*, XJTLU
+
+  
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
