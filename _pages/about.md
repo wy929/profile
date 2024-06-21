@@ -49,7 +49,7 @@ Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenb
 - *2022.10*, [*Letter of Appointment as Student Lecturer*](/assets/pdf/SAT_Student_Lecturer_Certificate.pdf),  Student Affairs Office, School of Advanced Technology and Peer Tutoring Club, XJTLU
 - *2021.07*, *University Academic Achievement Award (Top 10% in Academic Grades)*, XJTLU
 
-# 🪪 Certificate
+# 🪪 Certificates
 
 - *2022.09*, [Certificate of Stanford Algorithms Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/ZS5G8DMFDJ8H), Coursera
 
