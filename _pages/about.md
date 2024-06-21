@@ -44,7 +44,7 @@ Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenb
 
 # 🎖 Honors and Awards
 
-- *2024.03*, *Certificate of Completion of Algorithmic Trading Course*, Imperial College London
+- *2024.03*, [*Certificate of Completion of Algorithmic Trading Course*](/assets/pdf/AlgoCertificate_Yu_Wenbo .pdf), Imperial College London
 
 - *2023*.06, *Certificate of Achievement*, Suzhou Municipal Key Laboratory for New Energy Techniques
 
