@@ -39,6 +39,8 @@ My research interest includes neural machine translation and computer vision. I 
 [Carbon Nanotube Optoelectronic Synapse Transistor Arrays with Ultra‐Low Power Consumption for Stretchable Neuromorphic Vision Systems](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202303970)
 
 Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenbo Yu**, Suyun Wang, Weibing Gu, Chun Zhao, Minghua Tang, Jianwen Zhao
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
