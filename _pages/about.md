@@ -39,7 +39,7 @@ Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenb
 </div>
 </div>
 
-# 🎖 Honors & Awards
+# 🎖 Honors and Awards
 
 - 2024, *Certificate of Completion of Algorithmic Trading Course*, Imperial College London
 
@@ -57,7 +57,7 @@ Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenb
 
   *Neural network simulation of neuromorphic visual systems composed of opto-synaptic transistor arrays*
 
-# 📚 Projects & Activities
+# 📚 Projects and Activities
 
 - The Day After Tomorrow: Real-time Storm Forecasting
 
