@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Master Stu
+Master Student
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 🎓 Educations
@@ -46,9 +45,6 @@ Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenb
 
   *Neural network simulation of neuromorphic visual systems composed of opto-synaptic transistor arrays*
 
-  - Our team developed a new approach to construct high-performance stretchable SWCNT optoelectronic synapse thin film transistors (SSOSTFTs) with record power consumption (15.38 $aJ$) at operating voltages from -1 to 0.2 $V$ and exhibiting excellent electrical the record switching ratio of $10^5$​, enhancement-mode characteristics, slight hysteresis, and small subthreshold swing) and mechanical tensile properties and also excellent photoelectric synaptic properties (can implement Morse codes to encode English letters due to their excellent synaptic plasticity).
-  - I have developed a synaptic weight updating algorithm based on the properties of SSOSTFTs that can be connected to neural networks. A record accuracy of 95.1% was achieved in an experiment to detect atmospheric environment based on SSOSTFTs mimicking the function of the lens and optic cone cells of the human eye.
-
 
 
 # 🎖 Honors and Awards
@@ -64,8 +60,3 @@ Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenb
 - 2021, *University Academic Achievement Award (Top 10% in Academic Grades)*, XJTLU
 
   
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
