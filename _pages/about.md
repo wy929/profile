@@ -21,7 +21,7 @@ Master Student
 
 # 🔥 News
 
-- *2024.05* &nbsp;🎉🎉 Glad to begin my master's research project under the supervision of Professor [Sibo Cheng](https://www.linkedin.com/in/sibo-cheng-23a52711b/).
+- *2024.05*: &nbsp;🎉🎉 Glad to begin my master's research project under the supervision of Professor [Sibo Cheng](https://www.linkedin.com/in/sibo-cheng-23a52711b/).
 
 - *2023.09*: &nbsp;🎉🎉 Started my Master at Imperial College London
 
@@ -29,15 +29,14 @@ Master Student
 
 # 🎓 Educations
 - *2023.09 - 2024.09 (Expected)*, MSc in Applied Computational Science and Engineering, [Imperial College London](https://www.imperial.ac.uk/)
-- *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, [University of Liverpool](https://www.liverpool.ac.uk/)
+- *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, [University of Liverpool](https://www.liverpool.ac.uk/), GPA[^wes]:**3.95**
 - *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en)
 
-# 📝 Publications 
+# 📝 Publications  
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Adv. Funct. Mater. 2023</div><img src='images/pub01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Carbon Nanotube Optoelectronic Synapse Transistor Arrays with Ultra‐Low Power Consumption for Stretchable Neuromorphic Vision Systems](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202303970)
-
 Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenbo Yu**, Suyun Wang, Weibing Gu, Chun Zhao, Minghua Tang, Jianwen Zhao
 </div>
 </div>
@@ -50,7 +49,7 @@ Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenb
 
 - *2022*.09, [*Certificate of 2022 Summer Undergraduate Research Fellowship (SURF)*](/assets/pdf/SURF_Certificate_Wenbo_Yu.pdf), XJTLU
 
-- *2022.09*, [*Letter of Appointment as Student Lecturer*](/assets/pdf/SAT_Student_Lecturer_Certificate.pdf),  Student Affairs Office, School of Advanced Technology and Peer Tutoring Club, XJTLU
+- *2022.10*, [*Letter of Appointment as Student Lecturer*](/assets/pdf/SAT_Student_Lecturer_Certificate.pdf),  Student Affairs Office, School of Advanced Technology and Peer Tutoring Club, XJTLU
 
 - *2021.07*, *University Academic Achievement Award (Top 10% in Academic Grades)*, XJTLU
 
@@ -74,3 +73,6 @@ Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenb
 
 - Extra Courses
 
+
+
+[^wes]: https://www.wes.org/
