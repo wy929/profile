@@ -39,14 +39,6 @@ Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenb
 </div>
 </div>
 
-# 💻 Experience
-
-- Suzhou Municipal Key Laboratory for New Energy Techniques, Suzhou, China
-
-  *Neural network simulation of neuromorphic visual systems composed of opto-synaptic transistor arrays*
-
-
-
 # 🎖 Honors and Awards
 
 - 2024, *Certificate of Completion of Algorithmic Trading Course*, Imperial College London
@@ -59,4 +51,22 @@ Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenb
 
 - 2021, *University Academic Achievement Award (Top 10% in Academic Grades)*, XJTLU
 
-  
+# 💻 Experience
+
+- Suzhou Municipal Key Laboratory for New Energy Techniques, Suzhou, China
+
+  *Neural network simulation of neuromorphic visual systems composed of opto-synaptic transistor arrays*
+
+# 📚Projects & Activities
+
+- The Day After Tomorrow: Real-time Storm Forecasting
+
+
+
+  # 🛠️ Skills
+
+- Language: 
+
+# 🍹Miscellaneous
+
+- Extra Courses
