@@ -88,8 +88,7 @@ Tanghao Xie, Qinan Wang, Min Li, Yuxiao Fang, Gang Li, Shuangshuang Shao, **Wenb
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACSE, 2023.11</div><img src='images/project-deep-impact.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-[Deep Impact: The Hazard of Small Asteroids](https://github.com/acse-wy1223/ACSE/tree/main/acs-deepimpact-atira)
+[Deep Impact: The Hazard of Small Asteroids](https://github.com/acse-wy1223/ACSE/tree/main/acs-deepimpact-atira) <div style="text-align: right;">London, UK</div>
 
 - Modelling the dynamics of airbursts of meteorites is a huge computational challenge. In this project we explored the effects and hazards caused by small asteroids as they enter the Earth's atmosphere. Our team has developed an optimisation method for finding the asteroid radius and strength that gives the precise fit to an observed energy deposition curve for the Chelyabinsk meteor; developed a airburst solver capable of predicting the energy and location of explosions; developed an airburst damage mapper to plot damage zone and determine high-risk postcodes with user-friendly interface.
 - Achieve the **best** performance in solver execution efficiency.
