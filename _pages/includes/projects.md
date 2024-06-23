@@ -31,4 +31,22 @@
 </div>
 </div>
 
-<span class='anchor' id='-skills'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAN201, 2021.10</div><img src='images/project-can201.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+  <div style="display: flex; justify-content: space-between;">
+      <div>
+        <a href="https://github.com/wy929/CAN201-Project">Large Efficient Flexible and Trusty (LEFT) Files Sharing Program</a>
+      </div>
+      <div style="text-align: right;">Suzhou, China</div>
+  </div>
+
+- Python socket programming project: developed a reliable and efficient automatic file synchronization software based on P2P architecture that can be deployed on remote servers. Designed and built the protocol from scratch and implement larger file transfer (Test passed 2G large file transferring), file integrity monitoring (FIM), breakpoint transfer, and realized asynchronous transmission that enables near-complete utilization of LAN bandwidth.
+
+- Achieved an excellent score of top **3%** (final score of **93%**) in the program stability and efficiency test (stress test) script written by module leader.
+
+</div>
+</div>
+
+
+- ``CPT106, 2021.06`` [Restaurant Management System](https://github.com/wy929/CPT106-CW4)
