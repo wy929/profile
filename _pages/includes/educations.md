@@ -1,0 +1,5 @@
+# 🎓 Educations
+- *2023.09 - 2024.09 (Expected)*, MSc in Applied Computational Science and Engineering, <img src="images/ic.png" alt="ic" style="zoom: 50%;" /> [Imperial College London](https://www.imperial.ac.uk/)
+
+- *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, <img src="images/uol.png" alt="uol" style="zoom: 50%;" /> [University of Liverpool](https://www.liverpool.ac.uk/) & <img src="images/xjtlu.png" alt="xjtlu" style="zoom: 50%;" /> [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en)
+  - GPA([WES](https://www.wes.org/)): **3.95**/4.0
