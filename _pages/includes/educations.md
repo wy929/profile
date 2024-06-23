@@ -3,3 +3,6 @@
 
 - *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, <img src="images/uol.png" alt="uol" style="zoom: 50%;" /> [University of Liverpool](https://www.liverpool.ac.uk/) & <img src="images/xjtlu.png" alt="xjtlu" style="zoom: 50%;" /> [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en)
   - GPA([WES](https://www.wes.org/)): **3.95**/4.0
+
+- *2016.09 - 2019.06*, Zhengzhou Foreign Language School
+- *2013.09 - 2016.09*, Zhengzhou Foreign Language Middle School
