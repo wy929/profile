@@ -48,5 +48,16 @@
 </div>
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+<div>
+    <span class="badge1">CPT106, 2021.06</span>
+    <a href="https://github.com/wy929/CPT106-CW4">Restaurant Management System</a>
+</div>
+<div style="text-align: right;">Suzhou, China</div></div>
 
-- ``CPT106, 2021.06`` [Restaurant Management System](https://github.com/wy929/CPT106-CW4)
+<div style="display: flex; justify-content: space-between;"><div>
+    <span class="acativity">SAT, 2021.09</span>
+    Student Lecturer and Teaching Assistant</div>
+  <div style="text-align: right;">Suzhou, China</div></div>
+  <!-- <div style="font-size: 0.8em; margin-left: 0.65em;">SAT (School of Advanced Technology) and PTC (Peer Tutoring Club)</div> -->
+
