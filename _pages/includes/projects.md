@@ -31,6 +31,38 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INT303, 2022.12</div><img src='images/project-int303-cw2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+  <div style="display: flex; justify-content: space-between;">
+      <div>
+        <a href="https://github.com/wy929/INT303/tree/main/Assignment_2">Kaggle Competition</a>
+      </div>
+      <div style="text-align: right;">Suzhou, China</div>
+  </div>
+- INT303 Big Data Analysis (2223 S1) Assignment 2: [Kaggle Competition -  Will your employees leave?](https://www.kaggle.com/competitions/int303-big-data-analysis-2223-S1)
+- Final Score on [Leaderboard](https://www.kaggle.com/competitions/int303-big-data-analysis-2223-S1/leaderboard): 12th (XJTLU_1929603)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEC202, 2022.03</div><img src='images/project-mec202.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+  <div style="display: flex; justify-content: space-between;">
+      <div>
+        <a href="https://github.com/wy929/MEC202-Project">Smart Desktop Ornament</a>
+      </div>
+      <div style="text-align: right;">Suzhou, China</div>
+  </div>
+
+- Based on a survey of students and teachers, a smart desktop ornament with integrated multiple functions was designed in order to optimize the online learning environment including simulation (TinkerCAD, Wokwi), physical prototype verification (based on Arduino, STM32 Development Board), and 3D modeling (Solidworks). Examiners can use wearable remote controller (ear-mounted controller with Bluetooth module) for remote proctoring, network connection module is based on python socket and an embedded AI voice recognition module for user interaction (voice commands).
+
+- Achieve an outstanding score of **78%**. Project Demonstration Video Available: [link](https://www.bilibili.com/video/BV1jF411j7JS/?spm_id_from=333.999.0.0&vd_source=5865489d86aa262c7dd06e83467d08a1)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAN201, 2021.10</div><img src='images/project-can201.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
