@@ -34,3 +34,5 @@ redirect_from:
 {% include_relative includes/skills.md %}
 
 {% include_relative includes/miscellaneous.md %}
+
+{% include_relative includes/visit.md %}
