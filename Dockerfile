@@ -1,5 +1,5 @@
 # 使用最新的 Ruby 版本
-FROM ruby:2.7
+FROM ruby:3.1
 
 # 安装必要的系统依赖
 RUN apt-get update -qq && apt-get install -y nodejs
