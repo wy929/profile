@@ -1,31 +1,31 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/profile/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/profile/#-news"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/profile/#-educations"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/profile/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/profile/#-honors-and-awards"
 
   - title: "Certificates"
-    url: "/#-certificates"
+    url: "/profile/#-certificates"
 
   - title: "Experience"
-    url: "/#-experience"
+    url: "/profile/#-experience"
 
   - title: "Projects and Activities"
-    url: "/#-projects-and-activities"
+    url: "/profile/#-projects-and-activities"
 
   - title: "Skills"
-    url: "/#-skills"
+    url: "/profile/#-skills"
   
   - title: "Miscellaneous"
-    url: "/#-miscellaneous"
+    url: "/profile/#-miscellaneous"
