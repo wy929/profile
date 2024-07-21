@@ -1,5 +1,20 @@
 # 📈 Projects and Activities
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACSE, 2024.05</div><img src='images/project-genetic-algo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+  <div style="display: flex; justify-content: space-between;">
+      <div>
+        <a href="https://github.com/acse-wy1223/ACSE/tree/main/acs-gerardium-rush-ilmentite">Genetic Algorithms: Optimal Mineral Recovery</a>
+      </div>
+      <div style="text-align: right;">London, UK</div>
+  </div>
+- This project focuses on optimizing mineral recovery circuits using a **Genetic Algorithm** approach, specifically for extracting the valuable mineral "gerardium." By designing and evaluating various circuit configurations of separation units, the goal is to maximize recovery and purity of the final product while balancing economic considerations. The code was written in **C++** and parallelized using **OpenMP**, and has been tested for large circuits on the HPC at Imperial.
+- Achieved **excellence** in the final performance score.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACSE, 2024.02</div><img src='images/project-the-day-after-tomorrow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -10,7 +25,7 @@
       <div style="text-align: right;">London, UK</div>
   </div>
 - The project aims to improve emergency response protocols for hurricanes by forecasting the evolution of tropical cyclones in real-time using ML/DL techniques. Participants are tasked with designing and implementing ML/DL models to predict future satellite images and wind speeds based on provided data from 30 historical storms. The final solution has two models built with **PyTorch**: 1. Image Generation Model (**Encoder+ConvLSTM+Decoder**): generate future image predictions based on these existing images. 2. Prediction Model (**Refined CNN-LSTM**): predict wind speed based on the provided time series data.
-- Achieve the **best** score in final prediction.
+- Achieved the **best** score in final prediction.
 
 </div>
 </div>
@@ -26,7 +41,7 @@
   </div>
 
 - Modelling the dynamics of airbursts of meteorites is a huge computational challenge. In this project we explored the effects and hazards caused by small asteroids as they enter the Earth's atmosphere. Our team has developed an optimisation method for finding the asteroid radius and strength that gives the precise fit to an observed energy deposition curve for the Chelyabinsk meteor; developed a airburst solver capable of predicting the energy and location of explosions; developed an airburst damage mapper to plot damage zone and determine high-risk postcodes with user-friendly interface.
-- Achieve the **best** performance in solver execution efficiency.
+- Achieved the **best** performance in solver execution efficiency.
 
 </div>
 </div>
@@ -80,9 +95,18 @@
 </div>
 </div>
 
-<div style="display: flex; justify-content: space-between;"><div>
+<div style="display: flex; justify-content: space-between;">
+  <div>
     <span class="badge1">ACSE, 2024.03</span>
-    Image Processing Package with C++</div>
+    <a href="https://github.com/acse-wy1223/ACSE/tree/main/advanced-programming-group-xavier">Image Processing with C++</a>
+  </div>
+<div style="text-align: right;">London, UK</div></div>
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <span class="badge1">ACSE, 2023.11</span>
+    <a href="https://github.com/acse-wy1223/ACSE/tree/main/dsml4pe-assessment">DSML for Planet Earth: Predictor of Sediment Classes</a>
+  </div>
 <div style="text-align: right;">London, UK</div></div>
 
 <div style="display: flex; justify-content: space-between;">
