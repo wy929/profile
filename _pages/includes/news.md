@@ -1,6 +1,6 @@
 # 🔥 News
 
-- *2024.05*: &nbsp;🎉🎉 Glad to begin my master's research project under the supervision of Professor [Sibo Cheng](https://www.linkedin.com/in/sibo-cheng-23a52711b/).
+- *2024.05*: &nbsp;🎉🎉 Glad to begin my master's research project under the supervision of Dr. [Sibo Cheng](https://www.linkedin.com/in/sibo-cheng-23a52711b/).
 
 - *2023.09*: &nbsp;🎉🎉 Started my Master at Imperial College London
 
