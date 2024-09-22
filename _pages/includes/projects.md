@@ -1,4 +1,4 @@
-# 📈 Projects and Activities
+# 📈 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACSE, 2024.05</div><img src='images/project-genetic-algo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

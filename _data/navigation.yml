@@ -12,8 +12,8 @@ main:
   - title: "Publications"
     url: "/profile/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/profile/#-honors-and-awards"
+  - title: "Honors"
+    url: "/profile/#-honors"
 
   - title: "Certificates"
     url: "/profile/#-certificates"
@@ -21,8 +21,8 @@ main:
   - title: "Experience"
     url: "/profile/#-experience"
 
-  - title: "Projects and Activities"
-    url: "/profile/#-projects-and-activities"
+  - title: "Projects"
+    url: "/profile/#-projects"
 
   - title: "Skills"
     url: "/profile/#-skills"
