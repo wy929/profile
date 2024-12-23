@@ -5,4 +5,4 @@
 
 - *2023.09*: &nbsp;🎉🎉 Started my Master at Imperial College London
 
-- *2023.07*: &nbsp;🎉🎉 Got my First-Class Honours Bachelor Degree at [](https://www.liverpool.ac.uk/) and [XJTLU](https://www.xjtlu.edu.cn/en)
+- *2023.07*: &nbsp;🎉🎉 Got my First-Class Honours Bachelor Degree at [UOL](https://www.liverpool.ac.uk/) and [XJTLU](https://www.xjtlu.edu.cn/en)
