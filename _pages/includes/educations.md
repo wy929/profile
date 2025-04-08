@@ -1,5 +1,5 @@
 # 🎓 Educations
-- *Nov 2024 - Apr 2028*, Doctorat en Sciences de l’ingénieur, <img src="images/250px-Logo_ponts_paristech.png" alt="ip-paris" style="zoom: 50%;" /> [ENPC](https://ecoledesponts.fr/), <img src="images/ip_paris.png" alt="ip-paris" style="zoom: 50%;" /> [Institut Polytechnique de Paris](https://www.ip-paris.fr/en)
+- *Nov 2024 - Apr 2028*, Doctorat en Sciences de l’ingénieur, <img src="images/250px-Logo_ponts_paristech.png" alt="enpc" width="21" /> [ENPC](https://ecoledesponts.fr/), <img src="images/ip_paris.png" alt="ip-paris" style="zoom: 50%;" /> [Institut Polytechnique de Paris](https://www.ip-paris.fr/en)
 
 - *Sep 2023 - Sep 2024*, MSc in Applied Computational Science and Engineering, <img src="images/ic.png" alt="ic" style="zoom: 50%;" /> [Imperial College London](https://www.imperial.ac.uk/)
   - GPA: 74.95%, Graduated with Distinction
