@@ -5,7 +5,7 @@
 - *Sep 2023 - Sep 2024*, MSc in Applied Computational Science and Engineering, <img src="images/icl-logo.svg" alt="ic" width="21" /> [Imperial College London](https://www.imperial.ac.uk/)
   - GPA: 74.95%, Graduated with Distinction
 
-- *Sep 2019 - Jun 2023*, B.Eng. in Computer Science and Technology, <img src="images/Liverpool University.svg" alt="uol" width="24" /> [University of Liverpool](https://www.liverpool.ac.uk/)
+- *Sep 2019 - Jun 2023*, B.Eng. in Computer Science and Technology, <img src="images/uol-logo.svg" alt="uol" width="21" /> [University of Liverpool](https://www.liverpool.ac.uk/)
   - GPA([WES](https://www.wes.org/)): **3.95**/4.0, Graduated with First Class Honours
 
 - *Sep 2016 - Jun 2019*, <img src="images/Zhengzhou_Foreign_Language_School_Logo.jpg" alt="zzfl" width="21" /> Zhengzhou Foreign Language School
