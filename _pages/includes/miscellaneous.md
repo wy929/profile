@@ -8,28 +8,23 @@
     <style>
         #music-player {
             width: 100%;
-            max-width: 600px;
-            margin: 0 auto;
+            max-width: 600px; /* max */
+            margin: 0 auto; /* center */
         }
 
-        #music-player iframe {
+        iframe {
             width: 100%;
-            height: 86px;
-            border: none;
+            height: 86px; /* fix */
+            border: none; /* remove */
         }
     </style>
 </head>
 <body>
-    <div id="music-player">
-        <iframe src="https://music.163.com/outchain/player?type=2&id=399367371&auto=1&height=66" allow="autoplay"></iframe>
-    </div>
-</body>
-</html>
-
-
-<!-- <script>
+    <div id="music-player"></div>
+    <script>
         // music list
-        const id_list = [501660, 399367371, 26131697, 498210, 482823, 591797, 29822825, 484058217, 33469232, 27709046, 767726, 1645108, 31587891, 786262, 32303027, 432698923];
+        const id_list = [501660, 399367371];
+        // const id_list = [501660, 399367371, 26131697, 498210, 482823, 591797, 29822825, 484058217, 33469232, 27709046, 767726, 1645108, 31587891, 786262, 32303027, 432698923];
         // random id
         function getRandomInt(max) {
             return Math.floor(Math.random() * Math.floor(max));
@@ -41,6 +36,8 @@
         iframe.src = `//music.163.com/outchain/player?type=2&id=${random_id}&auto=0&height=66`;
         // add iframe to div
         document.getElementById('music-player').appendChild(iframe);
-</script> -->
+    </script>
+</body>
+</html>
 
-<!-- <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=399367371&auto=1&height=66"></iframe> -->
+
