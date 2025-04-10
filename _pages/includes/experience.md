@@ -6,7 +6,7 @@
   
   *Research Intern (Supervisors: Prof. Chun Zhao, Ph.D. Student Qinan Wang)*
   
-- *2022.09 - 2023.06*, &nbsp;Xi'an Jiaotong-Liverpool University, International Research Centre, Suzhou, China
+- *2022.09 - 2023.06*, &nbsp;Research Centre for Internationalisation, Xi'an Jiaotong-Liverpool University, Suzhou, China
 
   *Metal-oxide Synaptic Transistor for Neuromorphic Computing and Image Generation* (Outstanding FYP: 85%)
 
