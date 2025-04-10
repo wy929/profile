@@ -7,5 +7,5 @@
 - *Sep 2019 - Jun 2023*, B.Eng. in Computer Science and Technology, <img src="images/uol-logo.svg" alt="uol" width="14" /> [University of Liverpool](https://www.liverpool.ac.uk/)
   - GPA([WES](https://www.wes.org/)): **3.95**/4.0, Graduated with First Class Honours
 
-- *Sep 2016 - Jun 2019*, <img src="images/Zhengzhou_Foreign_Language_School_Logo.jpg" alt="zzfl" width="21" /> Zhengzhou Foreign Language School
+- *Sep 2016 - Jun 2019*, High School Diploma, <img src="images/Zhengzhou_Foreign_Language_School_Logo.jpg" alt="zzfl" width="21" /> Zhengzhou Foreign Language School
 
