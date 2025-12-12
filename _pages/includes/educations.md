@@ -1,5 +1,5 @@
 # 🎓 Educations
-- *2025.04 - 2028.04*, &nbsp;Doctorat en Informatique, Données, IA, <img src="images/250px-Logo_ponts_paristech.png" alt="enpc" width="21" /> [ENPC](https://ecoledesponts.fr/), <img src="images/Institut_polytechnique_de_Paris_logo.svg" alt="ip-paris" width="21" /> [Institut Polytechnique de Paris](https://www.ip-paris.fr/en)
+- *2025.04 - 2028.04*, &nbsp;Doctorat en Informatique, Données et Intelligence Artificielle, <img src="images/250px-Logo_ponts_paristech.png" alt="enpc" width="21" /> [ENPC](https://ecoledesponts.fr/), <img src="images/Institut_polytechnique_de_Paris_logo.svg" alt="ip-paris" width="21" /> [Institut Polytechnique de Paris](https://www.ip-paris.fr/en)
 
 - *2023.09 - 2024.09*, &nbsp;MSc in Applied Computational Science and Engineering, <img src="images/icl-logo.svg" alt="ic" width="21" /> [Imperial College London](https://www.imperial.ac.uk/)
   - GPA: 74.95%, Graduated with Distinction
